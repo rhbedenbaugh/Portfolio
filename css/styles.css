@@ -217,7 +217,7 @@ footer ul {
 }
 
 @media (min-width: 800px) {
-  article {
+  article{
     display: grid;
     grid-template-columns: repeat(10, 1fr);
   }
@@ -234,7 +234,6 @@ footer ul {
   #projects ul {
     justify-content: flex-end;
   }
-  
 }
 
 @media (min-width: 850px) {
