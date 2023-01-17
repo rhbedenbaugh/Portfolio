@@ -148,12 +148,12 @@ nav [class*='fa-']:hover {
 }
 .name span {
   font-family: var(--sans);
-  font-size: 4rem;
+  font-size: 3rem;
   color: var(--skyblue);
   display: block;
 }
 #intro h2 {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: normal;
 }
 
